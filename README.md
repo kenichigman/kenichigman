@@ -25,8 +25,6 @@ wronger. Design notes are in the repo
 
 - A collectibles pipeline: inventory classification and pricing for a
   high-volume resale operation, Python + SQLite + local LLMs.
-- A bootable Linux USB toolkit with CLI tools and local models for
-  sysadmin automation.
 - An [audio-driven music-video engine](https://github.com/kenichigman/music-video):
   real audio features drive every frame. No procedural stand-ins.
 
